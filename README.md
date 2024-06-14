@@ -71,7 +71,7 @@ For detailed documentation and research paper, refer to [Vehicle Detection and C
 ## Developer Information
 - **Developer:** Yuvraj Singh Chowdhary
 - **Email:** chowdharyyuvrajsingh@gmail.com
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yuvrajsinghchowdhary/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yuvraj-singh-chowdhary/)
 
 ## Training Vectors and Videos
 The repository includes essential resources:
